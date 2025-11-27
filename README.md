@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rehan Weliwatta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computing Student from Sri Lanka</h3>
 
 - 🔭 I’m currently working on **Building a Backend of a Event management and support ticket management system**
 
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rehan weliwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehan weliwatta" height="30" width="40" /></a>
-<a href="https://kaggle.com/rehan thiwanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rehan thiwanka" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rehan-weliwatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehan-weliwatta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rehan-weliwatta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehan weliwatta" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rehanthiwanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rehan thiwanka" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rehan-weliwatta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehan-weliwatta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
