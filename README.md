@@ -1,4 +1,4 @@
-# Hello, I'm Rehan Weliwatta 👋
+# Hello, I'm Rehan Weliwatta 👋 [![](https://visitcount.itsvg.in/api?id=rehan-weliwatta&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 
 Welcome to my GitHub profile! I'm a passionate Computing Undergraduate Student with a strong interest in cloud technologies and DevOps. I'm always learning and pushing myself to improve and grow in my field. 
 
