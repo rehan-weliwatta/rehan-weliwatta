@@ -1,3 +1,14 @@
+# Hello, I'm Rehan Weliwatta 👋
+
+Welcome to my GitHub profile! I'm a passionate Computing Undergraduate Student with a strong interest in cloud technologies and DevOps. I'm always learning and pushing myself to improve and grow in my field. 
+
+## 🚀 About Me:
+- 🔭 I’m currently working on an Event management and support ticket management system backend.
+- 🌱 I’m learning DevOps tools , AWS and ML .
+- 👯 I’m looking to collaborate on CI/CD and automation.
+- 💬 Ask me about Technology.
+- 🥳 Fun Fact: I'm an E-sports Athlete.
+- 📫 How to reach me: thiwankarehan@gmail.com.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thisaint.rehan?igsh=MTRmdTQycGY2MjMzcg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rehan-weliwatta/) 
